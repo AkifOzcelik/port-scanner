@@ -8,24 +8,24 @@ The module "socket" and "threading" is one of Python's standard libraries and co
 
 ## Usage
 
-<span style="color: red;">1.</span> Clone this repository or download the `port_scanner.py` file.
+1. Clone this repository or download the `port_scanner.py` file.
 
-<span style="color: red;">2.</span> Open your terminal or command prompt.
+2. Open your terminal or command prompt.
 
-<span style="color: red;">3.</span> Run the scanner by executing the following command:
+3. Run the scanner by executing the following command:
 
 python port_scanner.py
 
-<span style="color: red;">4.</span> Follow the prompts to enter the target IP address and the port range or custom ports you want to scan.
+4. Follow the prompts to enter the target IP address and the port range or custom ports you want to scan.
 
-<span style="color: red;">-</span> To scan a range of ports, use the format: `start_port-end_port` (e.g., `20-80`).
-<span style="color: red;">-</span> To scan custom ports, separate them with commas (e.g., `8080,9090,8888`).
+- To scan a range of ports, use the format: `start_port-end_port` (e.g., `20-80`).
+- To scan custom ports, separate them with commas (e.g., `8080,9090,8888`).
 
-<span style="color: red;">5.</span> The scanner will start scanning the specified ports and display the results.
+5. The scanner will start scanning the specified ports and display the results.
 
 ## Release History
 
-Its brand new
+It's brand new
 
 ## Meta
 
