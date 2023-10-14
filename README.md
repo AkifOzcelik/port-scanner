@@ -29,7 +29,7 @@ It's brand new
 
 ## Meta
 
-Akif Özcelik – [@akifzclk](https://twitter.com/akifzclk) – akifozcelik.de@gmail.com
+Akif Özcelik – [Twitter](https://twitter.com/akifzclk) – [Instagram](https://www.instagram.com/iamakifzclk/) - [My Discord server](https://discord.gg/6PRazmg9fs) - akifozcelik.de@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
